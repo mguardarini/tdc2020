@@ -1,8 +1,12 @@
-# tdc2020
-React Native migration strategies samples.
+# TDC 2020 - São Paulo.
 
-Run and setup like react native projects : https://reactnative.dev/docs/environment-setup
+Palestra: Como migrar um aplicativo Nativo para React Native - Trilha da Microsoft por Mauro Guardarini e Fabio Damasceno.
 
+Se puderem realizar o setup do ambiente react-native está disponivel no link abaixo: https://reactnative.dev/docs/environment-setup
+
+Para saber com um pouco mais de detalhes disponibilizamos um artigo no medium disponivel no link abaixo: 
+
+Os slides da palestra está disponivel no link: https://bit.ly/2FRO5mq
 
 MIT License
 
